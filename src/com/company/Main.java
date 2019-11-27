@@ -35,5 +35,7 @@ public class Main {
         House rentedHouse = spitogatos.rentHouse(2333, 12, 12);
         System.out.println("I rented my house from spitogatos: " + rentedHouse.toString());
 
+        // a github test
+
     }
 }
